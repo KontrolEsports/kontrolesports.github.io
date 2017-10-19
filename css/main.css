@@ -38,5 +38,12 @@ footer {
     font-size: .8em;
 }
 img{
-  max-width: 100%;
+    max-width: 100%;
+}
+img.logo{
+    height: 75px;
+    position: absolute;
+    top: 30px;
+    left: 700px;
+    max-width: 100%;
 }
