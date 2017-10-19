@@ -46,7 +46,8 @@ ul.posts li {
     list-style: none;
 }
 .mail{
-    background-image: url("/images/mail.png");
+    width: 35px;
+    height: 35px;
 }
 .mail:hover {
     background-image: url('/images/mailh.png');
