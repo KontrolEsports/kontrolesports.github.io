@@ -38,6 +38,6 @@ footer {
     font-size: .8em;
 }
 .slideshow{
-  max-width: auto;
-  max-height: auto;
+  width: auto;
+  height: auto;
 }
