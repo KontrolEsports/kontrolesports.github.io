@@ -8,7 +8,7 @@ body {
 }
 @font-face {
     font-family:Evogria;
-    src:url("Evogria.otf");
+    src:url("../fonts/Evogria.otf");
 }
 nav ul, footer ul {
     font-family:Evogria;
