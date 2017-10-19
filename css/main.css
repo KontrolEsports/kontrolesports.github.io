@@ -6,8 +6,12 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+@font-face {
+    font-family:Evogria;
+    src:url("/images/Evogria.ttf");
+}
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:Evogria;
     text-align: center;
     padding: 0px;
     list-style: none;
