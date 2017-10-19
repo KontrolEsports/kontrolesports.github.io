@@ -40,9 +40,3 @@ footer {
 img{
     max-width: 100%;
 }
-img.logo{
-    height: 7px;
-    position: absolute;
-    top: 30px;
-    left: 700px;
-}
