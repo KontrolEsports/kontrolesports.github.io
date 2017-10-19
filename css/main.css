@@ -1,6 +1,7 @@
 html{
   background-color: black;
   background-size: cover;
+  position: absolute;
 }
 body {
     margin: 60px auto;
