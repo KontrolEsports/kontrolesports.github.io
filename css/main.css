@@ -40,3 +40,10 @@ footer {
 img{
   max-width: 100%;
 }
+#brand-image
+{
+    height: 75px;
+    position: absolute;
+    top: 30px;
+    left: 700px;
+}
