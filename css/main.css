@@ -37,3 +37,7 @@ p {
 footer {
     font-size: .8em;
 }
+.slideshow{
+  max-width: 500px;
+  max-height: 500px;
+}
