@@ -45,19 +45,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-#mail:hover {
-  background-image: url('images/mailh.png');
-
-}
-#twitter:hover {
-  background-image: url('images/twitterh.png');
-
-}
-#discord:hover {
-  background-image: url('images/discordh.png');
-
-}
-#twitch:hover {
-  background-image: url('images/twitchh.png');
-
-}
