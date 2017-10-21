@@ -1,0 +1,97 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kontrolesports.com" resolutions="1x" timestamp="1508629071901">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3924175907" ref="index"/>
+    <file name="about-us.css" crc="4007297268" ref="about-us"/>
+    <file name="contact.css" crc="4007297268" ref="contact"/>
+    <file name="tournaments.css" crc="4007297268" ref="tournaments"/>
+    <file name="master_a-master.css" crc="131536872" ref="index:tournaments:about-us:contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tournaments:about-us:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:tournaments:about-us:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tournaments:about-us:contact"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:tournaments:about-us:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:tournaments:about-us:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:tournaments:about-us:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:tournaments:about-us:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:tournaments:about-us:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:tournaments:about-us:contact"/>
+    <file name="mail.png" crc="124345102" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tournaments" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="mailh.png" crc="4294775682" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tournaments" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3883622116" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tournaments" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="twitterh.png" crc="148537836" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tournaments" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="discord.png" crc="54368887" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tournaments" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="discordh.png" crc="283149777" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tournaments" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="twitch.png" crc="3983565808" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tournaments" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="twitchh.png" crc="154493938" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tournaments" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="logo.png" crc="476727693" seo="true" ref="index:tournaments:about-us:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="tournaments" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u1071.png" crc="81324158" ref="index:tournaments:about-us:contact"/>
+    <file name="u1071-r.png" crc="279137797" ref="index:tournaments:about-us:contact"/>
+    <file name="u1071-a.png" crc="81324158" ref="index:tournaments:about-us:contact"/>
+    <file name="u1191.png" crc="487872848" ref="index:tournaments:about-us:contact"/>
+    <file name="u1191-r.png" crc="144447364" ref="index:tournaments:about-us:contact"/>
+    <file name="u1191-a.png" crc="487872848" ref="index:tournaments:about-us:contact"/>
+    <file name="u1224.png" crc="89002311" ref="index:tournaments:about-us:contact"/>
+    <file name="u1224-r.png" crc="23722803" ref="index:tournaments:about-us:contact"/>
+    <file name="u1224-a.png" crc="89002311" ref="index:tournaments:about-us:contact"/>
+    <file name="u1258.png" crc="387350159" ref="index:tournaments:about-us:contact"/>
+    <file name="u1258-r.png" crc="166292588" ref="index:tournaments:about-us:contact"/>
+    <file name="u1258-a.png" crc="387350159" ref="index:tournaments:about-us:contact"/>
+    <file name="gear-crop-u295.jpg" crc="49521571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4221551253" seo="true" mt="1508629063683" redirect="true"/>
+  <file name="tournaments.html" crc="305712941" seo="true" mt="1508629035104" redirect="true"/>
+  <file name="about-us.html" crc="481497771" seo="true" mt="1508629035104" redirect="true"/>
+  <file name="contact.html" crc="114523203" seo="true" mt="1508629035104" redirect="true"/>
+</manifest>
