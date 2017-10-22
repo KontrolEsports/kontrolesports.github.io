@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kontrolesports.com" resolutions="1x" timestamp="1508629071901">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kontrolesports.com" resolutions="1x" timestamp="1508638596570">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3924175907" ref="index"/>
+    <file name="index.css" crc="3866566320" ref="index"/>
     <file name="about-us.css" crc="4007297268" ref="about-us"/>
     <file name="contact.css" crc="4007297268" ref="contact"/>
     <file name="tournaments.css" crc="4007297268" ref="tournaments"/>
@@ -23,56 +23,56 @@
     <file name="mail.png" crc="124345102" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="tournaments" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="tournaments" alt=""/>
     </file>
     <file name="mailh.png" crc="4294775682" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="tournaments" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="tournaments" alt=""/>
     </file>
     <file name="twitter.png" crc="3883622116" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="tournaments" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="tournaments" alt=""/>
     </file>
     <file name="twitterh.png" crc="148537836" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="tournaments" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="tournaments" alt=""/>
     </file>
     <file name="discord.png" crc="54368887" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="tournaments" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="tournaments" alt=""/>
     </file>
     <file name="discordh.png" crc="283149777" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="tournaments" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="tournaments" alt=""/>
     </file>
     <file name="twitch.png" crc="3983565808" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="tournaments" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="tournaments" alt=""/>
     </file>
     <file name="twitchh.png" crc="154493938" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="tournaments" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="tournaments" alt=""/>
     </file>
     <file name="logo.png" crc="476727693" seo="true" ref="index:tournaments:about-us:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="tournaments" alt=""/>
       <caption webpage="about-us" alt=""/>
+      <caption webpage="tournaments" alt=""/>
     </file>
     <file name="u1071.png" crc="81324158" ref="index:tournaments:about-us:contact"/>
     <file name="u1071-r.png" crc="279137797" ref="index:tournaments:about-us:contact"/>
@@ -86,12 +86,12 @@
     <file name="u1258.png" crc="387350159" ref="index:tournaments:about-us:contact"/>
     <file name="u1258-r.png" crc="166292588" ref="index:tournaments:about-us:contact"/>
     <file name="u1258-a.png" crc="387350159" ref="index:tournaments:about-us:contact"/>
-    <file name="gear-crop-u295.jpg" crc="49521571" seo="true" ref="index">
+    <file name="gear-crop-u295.jpg" crc="3950660121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4221551253" seo="true" mt="1508629063683" redirect="true"/>
-  <file name="tournaments.html" crc="305712941" seo="true" mt="1508629035104" redirect="true"/>
-  <file name="about-us.html" crc="481497771" seo="true" mt="1508629035104" redirect="true"/>
-  <file name="contact.html" crc="114523203" seo="true" mt="1508629035104" redirect="true"/>
+  <file name="index.html" crc="4130502244" seo="true" mt="1508638544732" redirect="true"/>
+  <file name="tournaments.html" crc="305712941" seo="true" mt="1508638544732" redirect="true"/>
+  <file name="about-us.html" crc="481497771" seo="true" mt="1508638544732" redirect="true"/>
+  <file name="contact.html" crc="114523203" seo="true" mt="1508638544732" redirect="true"/>
 </manifest>
